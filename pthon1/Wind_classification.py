@@ -10,5 +10,7 @@ elif m >=102 and m < 209 :
     print("Wind classification is Typhoon.")
 elif m >= 209:
     print("Wind classification is Super Typhoon.")    
+elif m >= 209:
+    print("Wind classification is Super Typhoon.")  
 else :
     print("!!!Wrong value can't classify.")
